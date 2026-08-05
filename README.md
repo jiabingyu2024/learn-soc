@@ -10,17 +10,17 @@
 
 ```text
 learn/
-├── 01-captain/
+├── 01-yjb/
 │   ├── documents/
 │   └── ai-conversations/
-├── 02-member-a/
+├── 02-dmb/
 │   ├── documents/
 │   └── ai-conversations/
-└── 03-member-b/
+└── 03-zcr/
     ├── documents/
     └── ai-conversations/
 ```
 
-当前已有资料属于队长，已统一放入 `01-captain/documents/`。成员姓名确定后，可以直接把三个一级目录重命名为真实姓名。
+当前已有资料属于 YJB，已统一放入 `01-yjb/documents/`。
 
 提交资料前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
