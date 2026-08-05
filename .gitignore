@@ -1,0 +1,31 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.log
+*.bak
+*.zip
+*.7z
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Common build/cache directories
+__pycache__/
+.pytest_cache/
+node_modules/
+build/
+dist/
